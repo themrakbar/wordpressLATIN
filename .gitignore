@@ -1,0 +1,11 @@
+*.zip
+*.log
+check_*.php
+update_*.php
+clean_*.php
+find_*.php
+set_*.php
+replace_*.php
+restore_*.php
+get_logo.php
+remove_logo.php
